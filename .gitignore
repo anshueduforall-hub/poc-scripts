@@ -35,8 +35,6 @@ wheels/
 # ==========================================
 processed_notes_*/
 *.pdf
-local_parsed_document.md
-processed_notes_with_descriptions.md
 
 # ==========================================
 # Environment Variables & Secrets
