@@ -1,0 +1,64 @@
+# ==========================================
+# uv & Python Virtual Environments
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+# Python Cache & Build Artifacts
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================================
+# Processed Documents & Local Generated Outputs
+# ==========================================
+processed_notes_*/
+*.pdf
+local_parsed_document.md
+processed_notes_with_descriptions.md
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.local
+.env.*.local
+
+# ==========================================
+# IDE & Editor Settings
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ==========================================
+# Testing & Tooling Caches
+# ==========================================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
