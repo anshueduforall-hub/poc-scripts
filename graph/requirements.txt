@@ -1,0 +1,9 @@
+typing_extensions
+pydantic
+langchain_text_splitters
+langgraph
+langchain_community
+langchain_experimental
+langchain_ollama
+neo4j
+ollama
